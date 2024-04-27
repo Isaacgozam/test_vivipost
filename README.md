@@ -11,7 +11,6 @@ BONUS
 ✔ 3. Implement an algorithm to modify the price based on the following conditions:... - Changes are notified in the console
 
 
-
 Original post:
 
 ## Installation

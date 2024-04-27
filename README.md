@@ -2,14 +2,20 @@
 
 // Isaac Benaia +52 444 531 1914
 
-UPDATES 
-✔ 1. Clone repository
+UPDATES
+
+✔ 1. Clone repository 
+
 ✔ 2. Create a backend server (free to choose library, NodeJS/Express recommended) - Done with NodeJS/Express
+
 ✔ 3. Make it so the backend endpoint /orders return the orders data with the following structure...
 
 BONUS
+
 ✔ 1. Prepare the development environment with the previous Installation instructions. - I understood that this refers to the files management and organization, maybe it was something else?
+
 ✔ 2. Implement authorization using the 'token' header with the key 'VivipostInterview'. - Simulating an immediate login by the user
+
 ✔ 3. Implement an algorithm to modify the price based on the following conditions:... - Changes are notified in the console
 
 

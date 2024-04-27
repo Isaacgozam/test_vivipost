@@ -32,7 +32,7 @@ module.exports = function processData(data) {
             let length = data[index].products[p_index].length
             let width = data[index].products[p_index].width
             let vol = height * length * width
-            let tier = Math.round(vol/5000) + 1
+            let tier =  Math.ceil(vol/5000)
             let prev_price = data[index].products[p_index].price
             let tier_price = 0.1
             if (tier > 1) {

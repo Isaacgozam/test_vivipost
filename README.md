@@ -8,7 +8,7 @@ UPDATES
 
 ✔ 2. Create a backend server (free to choose library, NodeJS/Express recommended) - Done with NodeJS/Express
 
-✔ 3. Make it so the backend endpoint /orders return the orders data with the following structure...
+✔ 3. Make it so the backend endpoint /orders return the orders data with the following structure... - Due to the incremental Tier, some products reach an excesively high price
 
 BONUS
 
